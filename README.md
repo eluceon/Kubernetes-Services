@@ -11,11 +11,11 @@
 8. [Monitoring and Data Persistence](#monitoring-and-data-persistence)
 9. [Troubleshooting](#troubleshooting)
 10. [Maintenance and Cleanup](#maintenance-and-cleanup)
-11. [Author](#author)
-12. [License](#license)
+
+![kubernetes](kubernetes.png)
 
 ## Overview
-Welcome to a commercial-grade Kubernetes-based microservices infrastructure. This project serves as a robust foundation for hosting and managing various services in a production environment. Leveraging Kubernetes, Docker, and best practices in cloud-native application development, a scalable and reliable infrastructure has been created.
+Welcome to a Kubernetes-based microservices infrastructure. This project serves as a robust foundation for hosting and managing various services in a production environment. Leveraging Kubernetes, Docker, and best practices in cloud-native application development, a scalable and reliable infrastructure has been created.
 
 ## Project Description
 The infrastructure includes the following key services:
